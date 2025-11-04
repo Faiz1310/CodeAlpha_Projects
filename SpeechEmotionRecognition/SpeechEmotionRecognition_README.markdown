@@ -1,14 +1,13 @@
 # Speech Emotion Recognition
 
 ## Overview
-This project is a web application that classifies emotions (e.g., Neutral, Happy, Sad, Angry) from speech audio files using a machine learning model trained on the RAVDESS dataset. Built with Python and Streamlit, users can upload a WAV audio file (2-5 seconds) to receive a predicted emotion with a confidence score. The model achieves approximately 60-80% accuracy on the test set.
+This project is a web application that classifies emotions (e.g., Neutral, Happy, Sad, Angry) from speech audio files using a machine learning model trained on the RAVDESS dataset. Built with Python and Streamlit, users can upload a WAV audio file (2-5 seconds) to receive a predicted emotion with a confidence score. The model achieves approximately 80% accuracy on the test set.
 
 ## Files
 - `app.py`: Streamlit web app for emotion recognition.
-- `emotion_model.pth`: Pre-trained model [Update with actual model file name, e.g., `model.pth`].
-- `requirements.txt`: Python dependencies [Update with actual dependencies].
-- `train_emotion_model.py`: Script to train the model [Update with actual training script name, if applicable].
-- [Add other files, e.g., `data_loader.py`, if applicable].
+- `emotion_model.pth`: Pre-trained model.
+- `requirements.txt`: Python dependencie].
+- `train_emotion_model.py`: Script to train the model.
 
 ## Installation
 1. **Clone the Repository**:
