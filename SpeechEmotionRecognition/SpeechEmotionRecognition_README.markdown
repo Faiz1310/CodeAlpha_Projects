@@ -43,7 +43,7 @@ This project is a web application that classifies emotions (e.g., Neutral, Happy
    - Record speech in Audacity, export as WAV (48kHz, mono).
 
 ## Deployment
-- Deployed on Streamlit Sharing: [Insert deployed URL, e.g., https://faiz1310-codealpha-emotion.streamlit.app].
+- Deployed on Streamlit Sharing: [https://faiz1310-codealpha-emotion.streamlit.app].
 - To deploy:
   1. Go to https://share.streamlit.io.
   2. Select `CodeAlpha_Projects`, set main file to `SpeechEmotionRecognition/app.py`.
@@ -55,4 +55,4 @@ This project is a web application that classifies emotions (e.g., Neutral, Happy
 - Part of the `CodeAlpha_Projects` portfolio, alongside Handwritten Character Recognition.
 
 ## Author
-- Faiz (GitHub: [Faiz1310](https://github.com/Faiz1310))
+- Faiz (GitHub: (https://github.com/Faiz1310))
